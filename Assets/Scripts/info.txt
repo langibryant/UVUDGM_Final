@@ -1,0 +1,13 @@
+Game should have:
+a start menu
+
+a game state - 1 or 2 levels
+
+a paused menu
+    quit button
+    restart button
+
+code:
+    have clean code
+    comment on code, don't have un-used functions, DONT HAVE USELESS SHIT IN UR CODE
+
